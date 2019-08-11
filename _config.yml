@@ -3,7 +3,7 @@ title: DiCaprio Blog
 SEOTitle: 安腾青司的博客 | DiCaprio Blog
 header-img: img/post-bg-desk.jpg
 email: DiCaprio17h@gmail.com
-description: "Every failure is leading towards success."
+description: "今日一别，从此天涯路远"
 keyword: "DiCaprio, DiCaprio Blog, 安腾青司的博客"
 url: "http://dicaprio17.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,8 +11,8 @@ github_repo: "https://github.com/dicaprio17/dicaprio17.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "当冲破云层之时，你便会知晓梦之所在"
+sidebar-avatar: /img/DiCaprio.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
