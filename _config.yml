@@ -11,7 +11,7 @@ github_repo: "https://github.com/dicaprio17/dicaprio17.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "当冲破云层之时，你便会知晓梦之所在"
+sidebar-about-description: "When you break through the clouds, you will know where dreams are."
 sidebar-avatar: /img/DiCaprio.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
