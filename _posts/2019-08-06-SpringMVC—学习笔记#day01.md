@@ -4,7 +4,7 @@ title:      SpringMVC—学习笔记#day01
 subtitle:   SpringMVC
 date:       2019-08-06
 author:     DiCaprio
-header-img: img/post-bg-digital-native.jpeg
+header-img: img/post-bg-digital-native.jpg
 catalog: true
 tags:
     - SpringMVC
@@ -12,7 +12,6 @@ tags:
 ---
 
 <p id="main-toc"><strong>目录</strong></p>
-
 
 <p id="%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E4%B8%89%E5%B1%82%E6%9E%B6%E6%9E%84%E5%92%8CMVC-toc" style="margin-left:0px;"><a href="#%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E4%B8%89%E5%B1%82%E6%9E%B6%E6%9E%84%E5%92%8CMVC" rel="nofollow" data-token="d37e1d1207297347e0f738d8fdfb8181" target="_self">第一章：三层架构和MVC</a></p>
 <p id="1.%20%E4%B8%89%E5%B1%82%E6%9E%B6%E6%9E%84-toc" style="margin-left:40px;"><a href="#1.%20%E4%B8%89%E5%B1%82%E6%9E%B6%E6%9E%84" rel="nofollow" data-token="2c4d91881f6e6a2f5eeea1035cdb0844" target="_self">1. 三层架构</a></p>
