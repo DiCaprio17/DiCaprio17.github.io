@@ -1,10 +1,10 @@
 # Site settings
 title: DiCaprio Blog
-SEOTitle: 安腾青司的博客 | DiCaprio Blog
+SEOTitle: 安藤青司的博客 | DiCaprio Blog
 header-img: img/home-bg1.jpg
 email: DiCaprio17h@gmail.com
 description: "今日一别，从此天涯路远"
-keyword: "DiCaprio, DiCaprio Blog, 安腾青司的博客"
+keyword: "DiCaprio, DiCaprio Blog, 安藤青司的博客"
 url: "http://dicaprio17.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/dicaprio17/dicaprio17.github.io.git" # you code repository
