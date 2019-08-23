@@ -266,7 +266,7 @@ public class Zoo {
 
 ------
 
-### 2、Qualifier（指定注入Bean的名称）
+### 2、@Qualifier（指定注入Bean的名称）
 
 如果容器中有一个以上匹配的`Bean`，则可以通过`@Qualifier`注解限定Bean的名称，看下面的例子：
 
@@ -455,7 +455,7 @@ public class CarFactory {
 
 ------
 
-### 3、Resource
+### 3、@Resource
 
 @Resource注解与@Autowired注解作用非常相似，这个就简单说了，看例子：
 
@@ -494,7 +494,7 @@ Spring属于第三方的，J2EE是Java自己的东西，因此，**建议使用`
 
 ------
 
-### 4、Service
+### 4、@Service
 
 上面这个例子，还可以继续简化，因为spring的配置文件里面还有15行~17行三个bean，下一步的简化是把这三个bean也给去掉，使得spring配置文件里面只有一个自动扫描的标签，增强Java代码的内聚性并进一步减少配置文件。
 
